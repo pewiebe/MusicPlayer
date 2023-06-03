@@ -48,6 +48,12 @@ const songs = [
         displayName: 'WOW',
         cover: 'assets/6.jpg',
         artist: 'Zara Larsson',
+    },
+    {
+        path: 'assets/7.mp3',
+        displayName: 'Impend -Bloom',
+        cover: 'assets/7.jpg',
+        artist: 'Bread',
     }
   
 ];
