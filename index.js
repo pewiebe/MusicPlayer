@@ -54,6 +54,12 @@ const songs = [
         displayName: 'Impend -Bloom',
         cover: 'assets/7.jpg',
         artist: 'Bread',
+    },
+    {
+        path: 'assets/8.mp3',
+        displayName: 'Me Libera',
+        cover: 'assets/8.jpg',
+        artist: 'Banda Djavú',
     }
   
 ];
